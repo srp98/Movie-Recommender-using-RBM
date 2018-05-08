@@ -22,7 +22,7 @@ Our model works in the following manner :-
 - After passing in the input, we train the RBM on it and have the hidden layer learn its features.
 - These features are used to reconstruct the input, which will predict the ratings for movies that the input hasn't watched, which is what we can use to recommend movies!
 
-## Credit
+## References
 - Inspired from the idea presented in paper [Salakhutdinov, R., Mnih, A., & Hinton, G. (2007, June). Restricted Boltzmann machines for collaborative filtering](http://www.cs.utoronto.ca/~hinton/absps/netflixICML.pdf)
 - Additional Notes used for understanding
   - [Extra Notes - 1](http://swoh.web.engr.illinois.edu/courses/IE598/handout/fall2016_slide2.pdf)
